@@ -1,0 +1,14 @@
+[
+	{
+		"params": ["-_Inf_",-120,-10],
+		"type": "triangularPulse"
+	},
+	{
+		"params": [-30,0,30],
+		"type": "triangularPulse"
+	},
+	{
+		"params": [10,120,"_Inf_"],
+		"type": "triangularPulse"
+	}
+]

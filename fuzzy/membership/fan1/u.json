@@ -1,0 +1,22 @@
+[
+	{
+		"params": [0,15,30],
+		"type": "triangularPulse"
+	},
+	{
+		"params": [17.5,32.5,47.5],
+		"type": "triangularPulse"
+	},
+	{
+		"params": [35,50,65],
+		"type": "triangularPulse"
+	},
+	{
+		"params": [52.5,67.5,82.5],
+		"type": "triangularPulse"
+	},
+	{
+		"params": [70,85,100],
+		"type": "triangularPulse"
+	}
+]
